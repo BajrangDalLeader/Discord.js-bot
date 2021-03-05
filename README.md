@@ -1,5 +1,8 @@
-# Discord.js-bot
-Simple Discord Bot
+Information
+
+Simple Discord Multipurpose Bot Commands Like (Whois, Anime, Manga and many others)
+
+- Easy & Free To Use
 ### Other
 
 - Author - Bajrang dal leader#6969
