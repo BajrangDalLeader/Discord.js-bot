@@ -1,4 +1,4 @@
-##Information
+# Information
 
 Simple Discord Multipurpose Bot Commands Like (Whois, Anime, Manga and many others)
 
